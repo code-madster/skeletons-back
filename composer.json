@@ -8,5 +8,7 @@
             "email": "madster.code@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "symfony/dependency-injection": "^3.4"
+    }
 }
