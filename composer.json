@@ -1,0 +1,12 @@
+{
+    "name": "madstarling/skeletons-back",
+    "description": "Skeleton's back is a basic server that can be used to quickly build a server.",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Madster",
+            "email": "madster.code@gmail.com"
+        }
+    ],
+    "require": {}
+}
